@@ -1,0 +1,20 @@
+base_de_datos/Aggregates
+base_de_datos/Check Constraints/
+base_de_datos/Composite Types/
+base_de_datos/Domains/
+base_de_datos/Enum Types/
+base_de_datos/Foreign Data Wrappers/
+base_de_datos/Foreign Keys/
+base_de_datos/Foreign Servers/
+base_de_datos/Functions/
+base_de_datos/Images/
+base_de_datos/Indices/
+base_de_datos/Languages/
+base_de_datos/Operators/
+base_de_datos/Rules/
+base_de_datos/Schemas/
+base_de_datos/Sequences/
+base_de_datos/Tables/
+base_de_datos/Triggers/
+base_de_datos/Views/
+base_de_datos/.gitignore
